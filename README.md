@@ -6,3 +6,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 ## စမ်းသပ်တီထွင်ရေးသား အလုပ်များ အလုပ်မအား 
+
+# npm run dev
